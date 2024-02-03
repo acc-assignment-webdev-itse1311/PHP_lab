@@ -1,6 +1,6 @@
 # PHP_lab
 
-Students! please use this online IDE for testing your php code download and set up local environment: [One Compiler](https://onecompiler.com/php/)
+Students! please use this online IDE for testing your PHP code. Instead of download and set up local dev environment: [One Compiler](https://onecompiler.com/php/)
 
 Introduce students to the core concepts and functionalities of PHP in a hands-on manner. Below are five lab exercises that gradually increase in complexity and cover a range of basic PHP topics, including syntax, variables, control structures, functions, and basic form handling. These exercises are intended for beginners and aim to provide a practical understanding of PHP.
 
