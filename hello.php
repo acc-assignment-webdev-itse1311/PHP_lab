@@ -7,8 +7,11 @@
 
 echo "This line is executable code."; // This line will be executed
 
-/* Task;
-  - Write PHP code that outputs "Hello, World!" to the browser.
+/* 
+   Objective: Familiarize students with PHP syntax and setting up a PHP file.
+   Task:
+   - Write PHP code that outputs "Hello, World!" to the browser.
+   Expected Outcome: When the hello.php file is accessed in a browser, it displays "Hello, World!".
  */
 
 echo "??";
